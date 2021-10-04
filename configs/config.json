@@ -1,0 +1,8 @@
+{
+    "prefix": "x!",
+		"embedcolor": "YOURBOTEMBEDCOLOR",
+    "mongooseConnectionString": "YOURMONGODBURI",
+	"owners": [
+		"776714971782053889"
+	]
+}

@@ -1,0 +1,17 @@
+{ 
+	"info": "<:icons_info:893834417435475968>",
+	"yes": "<:icons_correct:893834471839772702>",
+	"error": "<:icons_wrong:893834517998084157>",
+	"o": "<:icons_o:893834574294024232>",
+	"games": "<:icons_games:893834653453135912>",
+	"music": "<:icons_music:893834708201386005>",
+	"mod": "<:icons_ban:893834749129412648>",
+	"link": "<:icons_file:893834836744224779>",
+	"settings": "<:icons_settings:893834878360117278>",
+	"exclamation": "<:icons_exclamation:893834921930526770>",
+	"ping": "<:icons_goodping:893834963101810688>",
+	"bot": "<:icons_discord:893835009469861939>",
+	"coin": "<:icons_coin:893835051203166290>",
+	"utils": "<:icons_loading:893835095033671730>",
+"fun": "<:icons_shine2:893835143603707934>"
+}
